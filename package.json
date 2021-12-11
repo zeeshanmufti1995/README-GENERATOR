@@ -1,0 +1,19 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "This application generate READMe file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeeshanmufti1995/Readme-Generator.git"
+  },
+  "author": "ZEESHAN MUFTI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeeshanmufti1995/Readme-Generator/issues"
+  },
+  "homepage": "https://github.com/zeeshanmufti1995/Readme-Generator#readme"
+}
